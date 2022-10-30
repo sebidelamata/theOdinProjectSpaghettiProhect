@@ -1,0 +1,1 @@
+This is a basic html page showing basic structures and linking in html as part of the Odin Project.
